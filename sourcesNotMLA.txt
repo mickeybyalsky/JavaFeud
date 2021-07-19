@@ -1,0 +1,46 @@
+<html>
+<h1 style="text-align: center;"><span style="color: #0000ff;">Sources Used</span></h1>
+<p><span style="color: #000000;">&nbsp;</span></p>
+<p><span style="text-decoration: underline;"><span style="color: #000000;"><strong>Creating a Line Break in HTML Text for Cleaner Formatting:</strong></span></span></p>
+<ul>
+<li><span style="color: #000000;"><a style="color: #000000;" href="https://www.teachucomp.com/add-a-line-break-in-html-tutorial/">https://www.teachucomp.com/add-a-line-break-in-html-tutorial/</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><span style="color: #000000;"><strong>Family Feud Logo PNG</strong></span></span></p>
+<ul>
+<li><span style="color: #000000;"><a style="color: #000000;" href="https://commons.wikimedia.org/wiki/File:Logo_of_Family_Feud.png">https://commons.wikimedia.org/wiki/File:Logo_of_Family_Feud.png</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline; color: #000000;"><span><strong>For Java Questions, Answers and Point Weighting Ideas:</strong></span></span></p>
+<ul>
+<li><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://hobbylark.com/party-games/list-of-family-feud-questions">https://hobbylark.com/party-games/list-of-family-feud-questions</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline; color: #000000;"><span><strong>How to Make JOptionPanes and Dialogs:</strong></span></span></p>
+<ul>
+<li>Google Classroom Material and Videos uploaded by Mr. Benum.</li>
+<li><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html">https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline; color: #000000;"><span><strong>Handling Types of JOptionPanes:</strong></span></span></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<p style="padding-left: 60px;"><span style="text-decoration: underline; color: #000000;"><span><strong>showConfirmDialog:</strong></span></span></p>
+<p style="padding-left: 60px;">&nbsp;</p>
+<p style="padding-left: 60px;"><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://mkyong.com/swing/java-swing-how-to-make-a-confirmation-dialog/">https://mkyong.com/swing/java-swing-how-to-make-a-confirmation-dialog/</a></span></p>
+<p style="padding-left: 60px;">&nbsp;</p>
+<p style="padding-left: 60px;"><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://www.tutorialspoint.com/how-to-make-joptionpane-to-handle-yes-no-and-closed-buttons-in-java">https://www.tutorialspoint.com/how-to-make-joptionpane-to-handle-yes-no-and-closed-buttons-in-java</a>&nbsp;(not closed button)</span></p>
+<p style="padding-left: 60px;"><span style="text-decoration: underline; color: #000000;"><span><strong>showInputDialog:</strong></span></span></p>
+<p style="padding-left: 60px;">&nbsp;</p>
+<p style="padding-left: 60px;"><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://mkyong.com/swing/java-swing-joptionpane-showinputdialog-example/">https://mkyong.com/swing/java-swing-joptionpane-showinputdialog-example/</a></span></p>
+<p style="padding-left: 60px;">&nbsp;</p>
+<p><span style="text-decoration: underline;"><span style="color: #000000;"><strong>Reading and Outputting HTML File to the Program:</strong></span></span></p>
+<ul>
+<li><span style="color: #000000;">Google Classroom Material and Videos uploaded by Mr. Benum.&nbsp;</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline; color: #000000;"><span><strong>Using parseInt to convert String value to an int value:</strong></span></span></p>
+<ul>
+<li><span style="color: #000000;">Google Classroom Material and Videos uploaded by Mr. Benum.&nbsp;</span></li>
+<li><span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://www.geeksforgeeks.org/string-to-integer-in-java-parseint/">https://www.geeksforgeeks.org/string-to-integer-in-java-parseint/</a></span>&nbsp;</li>
+</ul>
+</html>

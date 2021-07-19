@@ -1,0 +1,24 @@
+<html>
+<h1>Java Feud</h1>
+<p>Welcome to the Java Feud Game Show!</p>
+<h3><strong>Rules and Instructions:</strong></h3>
+<p>In this New and Improved Retake on Family Feud you will try to guess <br> the most popular responses to survey questions in order to receive the most points.</p>
+<ol>
+<li style="padding-left: 30px;">A Question will be shown with 6 of the most popular answers already picked.</li>
+<li style="padding-left: 30px;">Your job is to guess the most common answer that people chose, to get the most points</li>
+<li style="padding-left: 30px;">The popularty of the answers are weight as follows:
+<ul style="list-style-type: circle;">
+<li style="padding-left: 30px;">If the answer chosen is the&nbsp;<strong>MOST</strong> common, you win <strong><span style="color: #ff6600;">50</span></strong> points.</li>
+<li style="padding-left: 30px;">If the answer chosen is the <strong>SECOND MOST&nbsp;</strong>common, you win <strong><span style="color: #ff6600;">40</span></strong> points.</li>
+<li style="padding-left: 30px;">If the answer chosen is the&nbsp;<strong>THIRD MOST&nbsp;</strong>common, you win <strong><span style="color: #ff6600;">30</span></strong> points.</li>
+<li style="padding-left: 30px;">If the answer chosen is the&nbsp;<strong>FOURTH MOST&nbsp;</strong>common, you win <span style="color: #ff6600;"><strong>20</strong></span> points.</li>
+<li style="padding-left: 30px;">If the answer chosen is the&nbsp;<strong>FIFTH MOST&nbsp;</strong>common, you win&nbsp;<strong><span style="color: #ff6600;">10&nbsp;</span></strong><span style="color: #000000;">points.</span></li>
+<li style="padding-left: 30px;"><span style="color: #000000;"><span style="color: #ff6600;"><span style="caret-color: #ff6600;"><span style="color: #000000;">If the answer chosen is the&nbsp;</span><strong><span style="color: #000000;">LEAST </span></strong><span style="color: #000000;">common, you win</span><strong> 1 </strong><span style="color: #000000;">point.</span></span></span></span></li>
+<li style="padding-left: 30px;"><strong>NO POINTS&nbsp;</strong>are awarded for entering something other than 1-6.</li>
+</ul>
+</li>
+<li><span style="color: #000000;"><span style="color: #ff6600;"><span style="caret-color: #ff6600;"><span style="color: #000000;">After each round, you will be presented with the amount of points awarded from that question.&nbsp;</span></span></span></span></li>
+<li><span style="color: #000000;"><span style="color: #ff6600;"><span style="caret-color: #ff6600;"><span style="color: #000000;">At the end of the game, you will find out how many points you have received overall.</span></span></span></span></li>
+<p>Press OK to Start the Feud!</p>
+</ol>
+</html>

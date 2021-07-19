@@ -1,0 +1,5 @@
+<html>
+<h1 style="text-align: center;"><span style="color: #3366ff;">It's Time for Java Feud!</span></h1>
+<h2 style="text-align: center;"><span style="color: #ff6600;">I've got the questions, you've got the answers. Let's have some fun!</span></h2>
+<p style="text-align: center;">&nbsp;Press OK to Begin</p>
+</html>

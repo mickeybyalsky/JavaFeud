@@ -1,0 +1,21 @@
+<html>
+<h1 style="text-align: center;"><span style="color: #0000ff;">MLA Sources Used</span></h1>
+<p>&nbsp;</p>
+<p>Brownell, Joseph, and About Joseph Brownell. &ldquo;Add a Line Break in HTML - Tutorial.&rdquo; <em>TeachUcomp, Inc.</em>, 23 Aug. 2016,<br> <span style="color: #000000;"><a style="color: #000000; text-decoration: underline;" href="http://www.teachucomp.com/add-a-line-break-in-html&nbsp;-tutorial/">www.teachucomp.com/add-a-line-break-in-html-tutorial/</a>.</span></p>
+<p>&nbsp;</p>
+<p>Mendoran, Sam. &ldquo;100+ Fun Family Feud Questions and Answers.&rdquo; <em>HobbyLark</em>, HobbyLark, 23 Apr. 2020, <br>hobbylark.com/party-games/list-of-family-feud-questions.</p>
+<p>&nbsp;</p>
+<p>&ldquo;How to Make Dialogs.&rdquo; <em>How to Make Dialogs (The Java&trade; Tutorials &gt; Creating a GUI With JFC/Swing &gt; Using Swing Components)</em>, <br>docs.oracle.com/javase/tutorial/uiswing/components/dialog.html.</p>
+<p>&nbsp;</p>
+<p>Marilena, et al. &ldquo;Java Swing - JOptionPane ShowConfirmDialog Example.&rdquo; <em>Mkyong.com</em>, 26 Nov. 2016, <br>mkyong.com/swing/java-swing-how-to-make-a-confirmation-dialog/.</p>
+<p>&nbsp;</p>
+<p><em>How to Make JOptionPane to Handle Yes, No and Closed Buttons in Java?</em><br><a href="http://www.tutorialspoint.com/how-to-make-joptionpane-to-handle-yes-no-and-closed-buttons-in-java">www.tutorialspoint.com/how-to-make-joptionpane-to-handle-yes-no-and-closed-buttons-in-java</a>.</p>
+<p>&nbsp;</p>
+<p>Marilena, et al. &ldquo;Java Swing - JOptionPane ShowInputDialog Example.&rdquo; <em>Mkyong.com</em>, 29 Nov. 2016,<br> mkyong.com/swing/java-swing-joptionpane-showinputdialog-example/.</p>
+<p>&nbsp;</p>
+<p>&ldquo;String to Integer in Java - ParseInt().&rdquo; <em>GeeksforGeeks</em>, 5 Dec. 2018, <br><a href="http://www.geeksforgeeks.org/string-to-integer-in-java-parseint/">www.geeksforgeeks.org/string-to-integer-in-java-parseint/</a>.</p>
+<p>&nbsp;</p>
+<p>&ldquo;Using JOptionPane for GUI.&rdquo; <em>Google Accounts</em>, Google,<br> classroom.google.com/c/NjY2MjcyMDg2MDVa/m/MTEwNTA5OTA1ODE5/details.</p>
+<p>&nbsp;</p>
+<p>&ldquo;Working with File in Java.&rdquo; <em>Google Accounts</em>, Google,<br> classroom.google.com/c/NjY2MjcyMDg2MDVa/m/MTA4MzU0Njg1MzAz/details.</p>
+</html>
